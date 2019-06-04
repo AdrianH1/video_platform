@@ -14,7 +14,7 @@ Also if there are videos which can't be uploaded to youtube, the source of the v
 video platform.
 Currently I'm working on a seperate space from which videos can be "uploaded" or better said from which you can easily create DB entries.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Some infos about the files:
 
