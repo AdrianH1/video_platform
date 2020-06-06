@@ -10,7 +10,7 @@
 </div>
 	<?php
 	
-	$apikey = 'AIzaSyDi7F3beBQEExWJScIRYUwk4nHF_GtbLec';
+	$apikey = 'placeholder';
     $googleApiUrl = 'https://www.googleapis.com/youtube/v3/videos?id=' . $video_id . '&key=' . $apikey . '&part=snippet';
     
 	function get_youtube_title($googleApiUrl){
